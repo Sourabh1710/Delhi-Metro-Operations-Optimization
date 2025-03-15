@@ -4,7 +4,7 @@
 I am working on optimizing Metro operations by analyzing and visualizing operational data from the Delhi Metro Rail Corporation. My objective is to identify key areas where adjustments in train frequencies could significantly improve service levels, reduce wait times, and alleviate overcrowding.
 
 ## Dataset Description
-The dataset consists of several files, each containing crucial information about metro operations:
+The [dataset](https://statso.io/delhi-metro-operations-case-study/) consists of several files, each containing crucial information about metro operations:
 - **Agency**: Details about the Delhi Metro Rail Corporation, including name, URL, and contact details.
 - **Calendar**: Service schedules defining operational days (weekdays, weekends) and valid service dates.
 - **Routes**: Information about metro routes, including short and long names, route type, and descriptions.
